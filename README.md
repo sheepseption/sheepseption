@@ -1,7 +1,26 @@
-# 👋 Hi, I'm Hanaa (aka sheepseption)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-🎓 I'm a **Computer Engineering student** passionate about high-performance computing, data science and quantum computing.  
-💡 I love turning ideas into clean, efficient, and useful code.  
+# 👋 Hi, I'm Hanaa Tabet Aoul
 
+**Computer Science master's student (Data Science & High‑Performance Computing).**  
+I love building **scalable systems** at the intersection of **software and hardware** — with a focus on **GPU programming**, **distributed computing**, and **ML infrastructure**.
+
+<p align="left">
+  <a href="mailto:hanaatabetaoul3@gmail.com"><img src="https://img.shields.io/badge/Email-hanaatabetaoul3%40gmail.com-red"></a>
+  <a href="https://linkedin.com/in/hanaa-tabet-aoul/"><img src="https://img.shields.io/badge/LinkedIn-hanaa--tabet--aoul-blue"></a>
+  <img src="https://img.shields.io/badge/Location-Bordeaux,%20FR-blueviolet">
+</p>
+
+---
+
+## 🔭 What I'm into
+- Distributed systems & system optimization
+- GPU programming (CUDA) and high‑performance rendering
+- Data pipelines & ML infrastructure
+- Clean engineering practices (Agile, DevOps, CI/CD)
+
+---
+
+## 🤝 Contact
+- Email: **hanaatabetaoul3@gmail.com**  
+- LinkedIn: **/in/hanaa-tabet-aoul/**
+
+> ⭐️ If you like my work, consider starring a repo!
