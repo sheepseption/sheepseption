@@ -24,3 +24,7 @@ I love building **scalable systems** at the intersection of **software and hardw
 - LinkedIn: **/in/hanaa-tabet-aoul/**
 
 > ⭐️ If you like my work, consider starring a repo!
+
+> <p align="center">
+  <img src=["https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFjcmExcGJ0bHVmdWFxa3k5a3hya2R1Y2U0eTUydjFpa3Z5cDN4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" width="500" alt="Coding animation">
+</p>
