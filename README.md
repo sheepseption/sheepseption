@@ -25,6 +25,7 @@ I love building **scalable systems** at the intersection of **software and hardw
 
 > ⭐️ If you like my work, consider starring a repo!
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="500" alt="Coding animation">
+</p>
 
