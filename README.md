@@ -26,6 +26,6 @@ I love building **scalable systems** at the intersection of **software and hardw
 > ⭐️ If you like my work, consider starring a repo!
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="500" alt="Coding animation">
+  <img src="https://media2.giphy.com/media/P8ef3Dkynk0xLx1h1T/giphy.gif" width="500" alt="Coding animation">
 </p>
 
