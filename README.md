@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hanaa Tabet Aoul
 
 **Computer Science master's student (Data Science & High‑Performance Computing).**  
-I love building **scalable systems** at the intersection of **software and hardware** — with a focus on **GPU programming**, **distributed computing**, and **ML infrastructure**.
+I love building **scalable systems** at the intersection of **software and hardware** — with a focus on **GPU programming**, **distributed computing**.
 
 <p align="left">
   <a href="mailto:hanaatabetaoul3@gmail.com"><img src="https://img.shields.io/badge/Email-hanaatabetaoul3%40gmail.com-red"></a>
@@ -14,7 +14,7 @@ I love building **scalable systems** at the intersection of **software and hardw
 ## 🔭 What I'm into
 - Distributed systems & system optimization
 - GPU programming (CUDA) and high‑performance rendering
-- Data pipelines & ML infrastructure
+- Quantum computing and networks
 - Clean engineering practices (Agile, DevOps, CI/CD)
 
 ---
