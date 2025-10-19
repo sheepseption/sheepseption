@@ -46,7 +46,7 @@ Web application to manage truck routes, drivers, and maintenance schedules.
 Developed in PHP with dynamic data handling and reporting.  
 👉 *Focus:* Full-stack development, CRUD design, and business logic integration.
 
-🐑 [**Sheepseption — AI Pathfinding Simulation**](https://github.com/sheepseption/sheepseption)  
+🐑 [**AI Pathfinding Simulation**]  
 A simulation project demonstrating AI behaviors and pathfinding in dynamic environments.  
 👉 *Focus:* Game logic, AI algorithms, and data structures for simulation.
 
